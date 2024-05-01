@@ -2,4 +2,4 @@ Desenvolvido em java um plugin para minecraft 1.8.8 que gera canhões automátic
 
 
 Grande parte inspirado nesse repositório, adaptado para hoje em dia..
-https://github.com/gabrielbs21/AstroCannons/tree/master/src/main/java/me/gabriel/astrocannons
+https://github.com/gabrielbs21/AstroCannons

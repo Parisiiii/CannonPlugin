@@ -1,0 +1,10 @@
+cannons:
+  advanced:
+    settings:
+      successMessage: 'Você posicionou o canhão avançado!'
+      schematic: 'canhaosimples.schematic'
+    item:
+      name: '&aCanhão Instantâneo'
+      texture: 'SKIN'
+      lore:
+        - ' &aNível: &4Avançado pra carai'

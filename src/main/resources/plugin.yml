@@ -1,0 +1,7 @@
+name: ParisiCannonPlugin
+main: org.cannon.ParisiiCannon
+version: 1.0
+commands:
+  cannon:
+    aliases: [ cannons, canhao, canhoes ]
+    description: Comando principal do sistema de canhões.
